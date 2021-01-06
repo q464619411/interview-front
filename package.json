@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "ant-design-vue": "^1.6.2",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "bootstrap": "^4.5.0",
         "element-ui": "^2.6.3",
         "git": "^0.1.5",
